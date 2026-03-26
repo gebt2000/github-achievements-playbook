@@ -19,3 +19,4 @@
 - What worked:
 - What did not:
 - Next week focus:
+- Achievement log: Quickdraw completed; YOLO attempt submitted.
